@@ -8,11 +8,13 @@ cs219
 #include <string>
 #include <iostream>
 #include<cmath>
+#include <cstring>
+
 
 using namespace std;
 
 string changeToHex(int);
-int changeToInt(string);
+int changeToInt(char[]);
 
 #endif
 

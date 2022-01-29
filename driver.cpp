@@ -9,8 +9,8 @@ using namespace std;
 
 
 int main(){
-	string operand1;
-	string operand2;
+	char operand1[32];
+	char operand2[32];
 	string operation;
 	string result = "";
 	
